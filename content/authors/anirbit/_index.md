@@ -11,7 +11,7 @@ organizations:
   - name: "University of Manchester"
     url: "https://www.manchester.ac.uk/"
 # Interests to show in About widget
-Interests
+Interests :
   - Provable Deep-Learning Algorithms
   - Solving PDEs via Neural Nets - PINNs and Neural Operators
   - Complexity Theory for Neural Nets 
@@ -32,4 +32,11 @@ image:
 
 
 
-I am a Lecturer (Assistant Professor) in Computer Science at The University of Manchester. 
+I am a Lecturer (Assistant Professor) in Computer Science at The University of Manchester.  
+I am also a member of, The Centre for A.I. Fundamentals. 
+Feel free to get in touch with me at anirbit.mukherjee@manchester.ac.uk
+
+Trying to understand deep learning and neural nets lands us into exciting new questions about differential equations and functional analysis. 
+I aspire to unravel these emerging questions in mathematics. 
+
+If you have a strong background in mathematics or statistics or theoretical physics or E.C.E. then feel free to email me about Ph.D. positions.
