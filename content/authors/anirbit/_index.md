@@ -13,6 +13,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Interests
+  - Deep Learning Theory
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
