@@ -18,7 +18,7 @@ interests:
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-#   Remove this if you are not using the People widget.
+#   Remove this if you are not using the People widgeI am deeply intrigued about how deep-learning and neural nets seem to land us at exciting new questions about differential equations and functional analysis. I aspire to unravel these emerging questions in mathematics. t.
 user_groups:
 - Supervisor
 
@@ -30,4 +30,4 @@ image:
 
 
 
-I am a Lecturer (Assistant Professor) in Computer Science at The University of Manchester. 
+I am a Lecturer (Assistant Professor) in Computer Science at The University of Manchester. I am also a member of, The Centre for A.I. Fundamentals. Here is my official profile. I am deeply intrigued about how deep-learning and neural nets seem to land us at exciting new questions about differential equations and functional analysis. I aspire to unravel these emerging questions in mathematics. 
